@@ -1,3 +1,12 @@
+---
+layout: post
+title: "face_prisng论文"
+date:   2022-01-13
+tags: [papers]
+comments: true
+author: houyaoqiqi
+---
+
 ## basemodel
 Rethink Dilated Convolution for Real-time Semantic Segmentation					 				
 Polarized Self-Attention: Towards High-quality Pixel-wise Regression 
