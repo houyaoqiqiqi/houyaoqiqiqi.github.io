@@ -1,8 +1,7 @@
 ## basemodel
 Rethink Dilated Convolution for Real-time Semantic Segmentation					 				
 Polarized Self-Attention: Towards High-quality Pixel-wise Regression 
-解读：[https://zhuanlan.zhihu.com/p/388716540](https://zhuanlan.zhihu.com/p/388716540)
-[https://zhuanlan.zhihu.com/p/392148142](https://zhuanlan.zhihu.com/p/392148142)
+解读
 ## Pyramid Scene Parsing Network
 PPM（Pyramid Pooling Module）模块
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1493451/1634804777188-9ee11e0a-bcb9-4bab-99de-0bcd77616d7d.png#align=left&display=inline&height=399&id=u82e4aad2&margin=%5Bobject%20Object%5D&name=image.png&originHeight=798&originWidth=1800&size=714252&status=done&style=none&width=900)
