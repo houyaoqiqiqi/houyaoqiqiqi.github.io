@@ -10,6 +10,8 @@ author: houyaoqiqi
 ## basemodel
 Rethink Dilated Convolution for Real-time Semantic Segmentation					 				
 Polarized Self-Attention: Towards High-quality Pixel-wise Regression 
+<!-- more -->
+
 解读
 ## Pyramid Scene Parsing Network
 PPM（Pyramid Pooling Module）模块
