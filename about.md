@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi，我是 lemon.
-
 ### 技能
 
 ### 经历
